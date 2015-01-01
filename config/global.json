@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "AfterTax": {
+            "applicationId": "OJLyRYZBYnymTON2Sgh4XkOHQmWYCwsTVJCd3qQs", 
+            "masterKey": "MTB7cQt7C6lZ0BoPgmWxRWxV6A8Nb3kUroP64zF6"
+        }, 
+        "_default": {
+            "link": "AfterTax"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.1"
+    }
+}
